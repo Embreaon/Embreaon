@@ -1,4 +1,6 @@
-### Hi there 👋
+# Q. Who are you?
+My name is Sugeun Bong.
+I'm from South Korea.
 
 <!--
 **Embreaon/Embreaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
