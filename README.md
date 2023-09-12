@@ -2,6 +2,8 @@
 My name is Sugeun Bong.
 I'm from South Korea.
 
+I'm not good at programming as well but I'll keep tring my best.
+
 <!--
 **Embreaon/Embreaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
