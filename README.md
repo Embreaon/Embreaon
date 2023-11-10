@@ -4,8 +4,8 @@ I'm from South Korea.
 
 I'm not good at programming as well but I'll keep tring my best.
 
-Prefer Language : Python
-Language that I learned : C, Python, Java
+Prefer Language : Python <br>
+Language that I learned : C, Python, Java <br>
 Tools that I learned : VS Code, Eclipse, WSL, UI Path, Django, FastAPI
 
 <!--
