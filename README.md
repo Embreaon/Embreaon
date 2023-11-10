@@ -4,6 +4,10 @@ I'm from South Korea.
 
 I'm not good at programming as well but I'll keep tring my best.
 
+Prefer Language : Python
+Language that I learned : C, Python, Java
+Tools that I learned : VS Code, Eclipse, WSL, UI Path, Django, FastAPI
+
 <!--
 **Embreaon/Embreaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
