@@ -6,7 +6,7 @@ I'm not good at programming as well but I'll keep tring my best.
 
 Prefer Language : Python <br>
 Language that I learned : C, Python, Java <br>
-Tools that I learned : VS Code, Eclipse, WSL, UI Path, Django, FastAPI
+Tools that I learned : VS Code, Eclipse, WSL, UI Path, Django, FastAPI, JupyterLab
 
 <!--
 **Embreaon/Embreaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
