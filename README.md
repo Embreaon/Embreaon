@@ -1,8 +1,9 @@
 # Q. Who are you?
-My name is Sugeun Bong.
-I'm from South Korea.
+My name is Sugeun Bong. <br>
+I'm from South Korea. <br>
 
-I'm not good at programming as well but I'll keep tring my best.
+I actively use AI as my second brain.
+It means, I can use AI at my task very actively.
 
 Prefer Language : Python <br>
 Language that I learned : C, Python, Java <br>
