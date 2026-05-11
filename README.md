@@ -2,8 +2,8 @@
 My name is Sugeun Bong. <br>
 I'm from South Korea. <br>
 
-I actively use AI as my second brain.
-It means, I can use AI at my task very actively.
+I actively use AI as my second brain. <br>
+It means, I can use AI at my task very actively. <br>
 
 Prefer Language : Python <br>
 Language that I learned : C, Python, Java <br>
